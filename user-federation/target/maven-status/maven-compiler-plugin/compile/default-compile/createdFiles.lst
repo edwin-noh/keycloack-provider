@@ -1,0 +1,4 @@
+com/redhat/ExternalUserStorageProvider.class
+com/redhat/ExternalUserAdapter.class
+com/redhat/ExternalUserStorageProviderFactory.class
+com/redhat/ExternalUser.class

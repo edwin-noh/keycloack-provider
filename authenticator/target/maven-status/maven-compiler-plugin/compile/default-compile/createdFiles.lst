@@ -1,0 +1,6 @@
+com/redhat/storageprovider/ExternalUserAdapter.class
+com/redhat/authenticator/IdPassAuthenticatorFactory.class
+com/redhat/storageprovider/ExternalUserStorageProviderFactory.class
+com/redhat/authenticator/IdPassAuthenticator.class
+com/redhat/storageprovider/ExternalUserStorageProvider.class
+com/redhat/storageprovider/ExternalUser.class
