@@ -1,0 +1,7 @@
+pom.xml
+.idea/
+rhsso-spi.iml
+authenticator.iml
+target/
+theme.iml
+user-federation.iml

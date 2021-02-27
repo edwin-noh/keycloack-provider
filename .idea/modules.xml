@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/authenticator/authenticator.iml" filepath="$PROJECT_DIR$/authenticator/authenticator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rhsso-spi.iml" filepath="$PROJECT_DIR$/rhsso-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theme/theme.iml" filepath="$PROJECT_DIR$/theme/theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-federation/user-federation.iml" filepath="$PROJECT_DIR$/user-federation/user-federation.iml" />
+    </modules>
+  </component>
+</project>

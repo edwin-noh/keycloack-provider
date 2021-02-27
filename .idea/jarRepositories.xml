@@ -7,14 +7,39 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="repository-apache-org" />
+      <option name="name" value="Apache Repository" />
+      <option name="url" value="https://repository.apache.org/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="jboss-public-repository" />
+      <option name="name" value="JBoss Public" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/groups/public-jboss/" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss-amq-maven-repository" />
+      <option name="name" value="jboss-amq-maven-repository" />
+      <option name="url" value="file://C:\Work\Products\amq-broker-7.7.0.GA-maven-repository\maven-repository" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="redhat-ga-repository" />
+      <option name="name" value="Red Hat GA repository" />
+      <option name="url" value="http://maven.repository.redhat.com/ga/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="bintray" />
+      <option name="name" value="Bintray JCenter" />
+      <option name="url" value="https://jcenter.bintray.com" />
     </remote-repository>
   </component>
 </project>
