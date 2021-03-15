@@ -13,6 +13,12 @@
         <module name="lp-auth-mock" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="authenticator" target="8" />
+      <module name="rhsso-spi" target="8" />
+      <module name="theme" target="14" />
+      <module name="user-federation" target="8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

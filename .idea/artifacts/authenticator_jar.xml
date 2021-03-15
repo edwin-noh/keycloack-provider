@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="authenticator:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/authenticator_jar</output-path>
-    <root id="archive" name="authenticator.jar">
-      <element id="module-output" name="authenticator" />
-    </root>
-  </artifact>
-</component>
