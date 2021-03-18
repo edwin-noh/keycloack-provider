@@ -15,6 +15,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="authenticator" target="8" />
+      <module name="lp-auth-mock" target="11" />
       <module name="rhsso-spi" target="8" />
       <module name="theme" target="14" />
       <module name="user-federation" target="8" />
