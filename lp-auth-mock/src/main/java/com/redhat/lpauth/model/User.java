@@ -7,11 +7,10 @@ import javax.persistence.*;
 @Data
 @Entity
 public class User {
-
+    //
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long cno;
-
-    @Column(nullable = false)
+    private long id;
     private String name;
+    private String password;
 }
